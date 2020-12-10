@@ -1,25 +1,12 @@
-## Welcome to GitHub Pages
+## Pruthvin Batham
 
-You can use the [editor on GitHub](https://github.com/pruthvinnbatham/pruthvin-batham.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my homepage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I am **Pruthvin Batham**, a final year student at Manipal Academy of Higher Education; I study BBA- Financial Markets. I love Finance and Economics and I am currently working on a project that is determined to _Quantify the risk associated with investing in a foreign country._ The project uses the Country Beta Concept to determine the volatility of the Country's Stock index.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
